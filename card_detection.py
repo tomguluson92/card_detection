@@ -6,10 +6,9 @@
     @institute: airdoc
     @date: 2017/9/26
 '''
-import argparse
+
 import numpy as np
 import datetime
-import imutils
 import time
 import cv2
 
